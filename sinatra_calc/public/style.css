@@ -1,0 +1,13 @@
+body{
+  background: #e1eef6;
+  color: #004e66;
+}
+
+p{
+  border-style: solid; 
+  border-width: 2px;
+}
+
+.home_header {
+  colour: purple;
+}
